@@ -1,0 +1,8 @@
+numpy==1.24.3
+matplotlib
+seaborn
+pandas 
+torchmetrics
+mlxtend
+torchvision==1.11.0+cu115
+torch==1.11.0+cu115
