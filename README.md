@@ -59,7 +59,7 @@ Once the model is trained and saved, you can run the `test.py` script to evaluat
 ```bash
 python test.py
 
-```test
+
 ### 🔮 Future Work
 
 This project lays the foundation for scalable computer vision pipelines. Potential future enhancements include:
