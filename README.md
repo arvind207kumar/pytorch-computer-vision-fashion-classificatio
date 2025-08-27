@@ -58,7 +58,7 @@ Once the model is trained and saved, you can run the `test.py` script to evaluat
 ### 🔧 Run the test script:
 ```bash
 python test.py
-
+```
 
 ### 🔮 Future Work
 
